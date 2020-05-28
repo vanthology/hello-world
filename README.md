@@ -1,2 +1,4 @@
 # hello-world
-wherein I follow the directions 
+wherein I continued to follow the directions
+and created a branch
+and edited said branch
